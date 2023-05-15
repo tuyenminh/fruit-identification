@@ -1,0 +1,20 @@
+Cài đặt AI :
+Mã được viết bằng Python 3.7.6 trong môi trường anaconda. Để cài đặt anaconda, hãy nhấp vào đây . Để tạo môi trường mới trong anaconda, hãy chạy các lệnh sau trong Dấu nhắc Anaconda.
+
+conda create -n your_env_name python=3.7.6
+
+
+Chạy
+Sau khi tạo thành công môi trường anaconda, hãy cài đặt các gói và thư viện cần thiết bằng cách chạy lệnh này trong thư mục dự án sau khi sao chép kho lưu trữ:
+
+pip install -r requirements.txt
+
+
+cd vào đúng địa chỉ trong dấu nháy đơn: "C:\xampp\htdocs\CT255\Agricultural\AI" 
+
+Sau đó bằng cách chạy lệnh sau, 
+
+C:\xampp\htdocs\CT255\Agricultural\AI python app.py
+
+Nó sẽ lưu trữ trang này trong cổng cục bộ và cũng sẽ cung cấp liên kết cục bộ có thể đặt liên kết này trong bất kỳ trình duyệt web nào.
+
